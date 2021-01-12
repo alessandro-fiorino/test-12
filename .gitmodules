@@ -36,3 +36,8 @@
 	path = custom-dd
 	url = git@github.com:Digital-Domus/custom-dd.git
 	branch = 12.0
+
+[submodule "OCA/purchase-workflow"]
+	path = OCA/purchase-workflow
+	url = git@github.com:OCA/purchase-workflow.git
+	branch = 12.0
